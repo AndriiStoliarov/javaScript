@@ -2,4 +2,4 @@
 
 ## vladilenMinin
 
-Full course EcmaScript 6+.
+Full course EcmaScript 6+
