@@ -4,4 +4,4 @@
 
 ## vladilenMinin
 
-Full course EcmaScript 6+
+Complete ECMAScript 6+ course
